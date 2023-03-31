@@ -1,0 +1,25 @@
+.clearBoth {
+  clear: both;
+}
+
+.class {
+  border-width: 2px;
+  border-color: black;
+}
+
+.welcome {
+  background-color: black;
+  color: white;
+}
+
+.appLogo {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+  background-color: lightseagreen;
+}
